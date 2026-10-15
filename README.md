@@ -1,28 +1,22 @@
-Student System
+# Student System
 
-Project Overview
-
+## Project Overview
 Student System is a web-based application designed to help manage student information through a simple and user-friendly interface.
 
-Features
-
+## Features
 - Student information management
 - Organized dashboard
 - Easy-to-use interface
 - Responsive web design
 
-Technology Stack
-
+## Technology Stack
 The exact technologies will be documented after adding the project source code to this repository.
 
-Live Demo
-
+## Live Demo
 https://studentsystem.lovable.app/
 
-Developer
-
+## Developer
 Gourav Singh
 
-Project Purpose
-
+## Project Purpose
 This project is developed for learning web development, project management, and version control using GitHub.
